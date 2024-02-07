@@ -2,6 +2,9 @@
 I have developed an Excel dashboard on the financial domain data that encompasses data cleaning, analysis, and visualization using various Excel commands and tools. This dashboard serves as a comprehensive tool for organizing, examining, and presenting data insights efficiently.
 
 Description about the Project-
+
+
+
                                                                                           BANK LOAN REPORT
                                                                                           PROBLEM STATEMENT
 DASHBOARD 1: SUMMARY
